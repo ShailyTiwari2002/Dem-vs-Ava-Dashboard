@@ -43,4 +43,6 @@ Key Features:
 - **Power Query** – for ETL (Extract, Transform, Load) operations from SQL Server
 
 ---
+Snapshots of Dashboard
+https://github.com/ShailyTiwari2002/Dem-vs-Ava-Dashboard/blob/main/Page1.png
 
