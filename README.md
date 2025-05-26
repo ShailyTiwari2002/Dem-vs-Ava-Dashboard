@@ -45,4 +45,5 @@ Key Features:
 ---
 Snapshots of Dashboard
 https://github.com/ShailyTiwari2002/Dem-vs-Ava-Dashboard/blob/main/Page1.png
+https://github.com/ShailyTiwari2002/Dem-vs-Ava-Dashboard/blob/main/Page2.png
 
